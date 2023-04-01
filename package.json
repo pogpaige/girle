@@ -1,0 +1,19 @@
+{
+  "name": "cute",
+  "version": "1.0.0",
+  "description": "cute bot",
+  "main": "start.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "suna",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/rest": "^0.1.0-canary.0",
+    "chalk": "^4.1.2",
+    "discord.js": "^13.14.0",
+    "dotenv": "^10.0.0",
+    "sequelize": "^6.12.0-alpha.1",
+    "sqlite3": "^5.0.2"
+  }
+}
